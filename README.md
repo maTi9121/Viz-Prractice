@@ -1,2 +1,2 @@
 # Viz-Prractice
-Visualization Practice Using Tablue
+Visualization Practice Using Tableau
